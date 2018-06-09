@@ -1,0 +1,1 @@
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\BrickBreaker.Windows.csproj;neutral

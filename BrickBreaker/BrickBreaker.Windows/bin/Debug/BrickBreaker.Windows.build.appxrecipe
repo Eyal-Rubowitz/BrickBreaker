@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EYALRPC</Machine>
+    <WindowsUser>eyalr</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4c6b57a2-ea87-4df6-a2ee-7bdbd6953c3a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=USER</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.exe">
+      <PackagePath>BrickBreaker.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\Falling Off-SoundBible.com-1209518917.mp3">
+      <PackagePath>Audio\Falling Off-SoundBible.com-1209518917.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\fire_bow_sound-mike-koenig.mp3">
+      <PackagePath>Audio\fire_bow_sound-mike-koenig.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\Kids Cheering-SoundBible.com-681813822.mp3">
+      <PackagePath>Audio\Kids Cheering-SoundBible.com-681813822.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\Popcorn.mp3">
+      <PackagePath>Audio\Popcorn.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.xr.xml">
+      <PackagePath>BrickBreaker.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EYALRPC</Machine>
+    <WindowsUser>eyalr</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4c6b57a2-ea87-4df6-a2ee-7bdbd6953c3a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=USER</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>356A6DCCAFCA2A6100B4AB99785BCF58402EA45C2B3AADE94F251A7E3E51FBE8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4c6b57a2-ea87-4df6-a2ee-7bdbd6953c3a_1.0.0.0_neutral__x3hap7anq5jnt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4c6b57a2-ea87-4df6-a2ee-7bdbd6953c3a_x3hap7anq5jnt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4c6b57a2-ea87-4df6-a2ee-7bdbd6953c3a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=USER</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-10T21:42:58.188</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.exe">
+      <PackagePath>BrickBreaker.Windows.exe</PackagePath>
+      <Modified>2018-06-03T12:33:16.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\Falling Off-SoundBible.com-1209518917.mp3">
+      <PackagePath>Audio\Falling Off-SoundBible.com-1209518917.mp3</PackagePath>
+      <Modified>2016-06-02T20:49:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\fire_bow_sound-mike-koenig.mp3">
+      <PackagePath>Audio\fire_bow_sound-mike-koenig.mp3</PackagePath>
+      <Modified>2016-06-02T20:49:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\Kids Cheering-SoundBible.com-681813822.mp3">
+      <PackagePath>Audio\Kids Cheering-SoundBible.com-681813822.mp3</PackagePath>
+      <Modified>2016-06-02T20:49:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\Audio\Popcorn.mp3">
+      <PackagePath>Audio\Popcorn.mp3</PackagePath>
+      <Modified>2016-06-02T20:49:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.xr.xml">
+      <PackagePath>BrickBreaker.Windows.xr.xml</PackagePath>
+      <Modified>2016-06-02T20:53:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-01-10T21:42:58.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-01-10T21:42:58.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-01-10T21:42:58.157</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

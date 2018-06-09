@@ -1,0 +1,96 @@
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.g.cs
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.xaml
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.xbf
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.xaml
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\App.xbf
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.xr.xml
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.exe
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.pdb
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\resources.pri
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.build.appxrecipe
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\BrickBreaker.Windows.exe
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\BrickBreaker.Windows.pdb
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2015\Projects\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\App.xbf
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\MainPage.xbf
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.xr.xml
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.exe
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.pdb
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\resources.pri
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\AppxManifest.xml
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.build.appxrecipe
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.g.i.cs
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.g.cs
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.g.cs
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.xaml
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.xaml
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.xbf
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.xbf
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\BrickBreaker.Windows.exe
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\BrickBreaker.Windows.pdb
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\priconfig.xml
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\layout.resfiles
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\resources.resfiles
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\pri.resfiles
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\qualifiers.txt
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\eyalr\Desktop\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\App.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\MainPage.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.xr.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.exe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\resources.pri
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\AppxManifest.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\bin\Debug\BrickBreaker.Windows.build.appxrecipe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.g.i.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.xaml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.xaml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\App.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MainPage.xbf
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\BrickBreaker.Windows.exe
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\BrickBreaker.Windows.pdb
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\priconfig.xml
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\layout.resfiles
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\resources.resfiles
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\pri.resfiles
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\qualifiers.txt
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\eyalr\OneDrive\מסמכים\studies&projects\Games\BrickBreaker\BrickBreaker\BrickBreaker.Windows\obj\Debug\ProjectArchitectures.txt
